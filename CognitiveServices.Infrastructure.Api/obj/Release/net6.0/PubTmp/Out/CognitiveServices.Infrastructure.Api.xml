@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CognitiveServices.Infrastructure.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CognitiveServices.Infrastructure.Api.Controllers.SpeechController.GetVoices">
+            <summary>
+            Obtiene las posibles opciones de voces en español soportadas por el sistema clasificadas por región y género
+            </summary>
+            <returns>Objeto con la lista de voces encontradas</returns>
+        </member>
+        <member name="M:CognitiveServices.Infrastructure.Api.Controllers.SpeechController.TextToAudio(System.String,CognitiveServices.Application.Dto.SpeechOptionsDto)">
+            <summary>
+            Convierte un texto ingresado en Audio
+            </summary>
+            <param name="textToConvert">Texto a convertir en audio</param>
+            <param name="options">
+            Opciones de selección de voz,
+            Si no se envía esta información el sistema seleccionará por defecto la voz masculina de la región es-MX (Mexico)
+            <see cref="T:CognitiveServices.Application.Dto.SpeechOptionsDto"/>
+            </param>
+            <returns>El audio convertido en string base64</returns>
+        </member>
+    </members>
+</doc>

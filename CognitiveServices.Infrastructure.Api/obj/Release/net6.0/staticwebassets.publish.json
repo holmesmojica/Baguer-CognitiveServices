@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cEWyFC5uRURm8Vv+9S+jGi2bxOEVCnEtuszFm7WP8/s=",
+  "Source": "CognitiveServices.Infrastructure.Api",
+  "BasePath": "_content/CognitiveServices.Infrastructure.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CognitiveServices.Infrastructure.Api\\wwwroot",
+      "Source": "CognitiveServices.Infrastructure.Api",
+      "ContentRoot": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\wwwroot\\",
+      "BasePath": "_content/CognitiveServices.Infrastructure.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\wwwroot\\favicon.ico",
+      "SourceId": "CognitiveServices.Infrastructure.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\wwwroot\\",
+      "BasePath": "_content/CognitiveServices.Infrastructure.Api",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

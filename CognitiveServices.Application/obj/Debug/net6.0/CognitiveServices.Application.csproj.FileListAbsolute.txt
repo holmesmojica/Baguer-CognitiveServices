@@ -1,0 +1,15 @@
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\bin\Debug\net6.0\CognitiveServices.Application.deps.json
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\bin\Debug\net6.0\CognitiveServices.Application.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\bin\Debug\net6.0\CognitiveServices.Application.pdb
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\bin\Debug\net6.0\CognitiveServices.Infrastructure.Speech.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\bin\Debug\net6.0\CognitiveServices.Infrastructure.Speech.pdb
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.csproj.AssemblyReference.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.AssemblyInfoInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.AssemblyInfo.cs
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.csproj.CoreCompileInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.csproj.CopyComplete
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\refint\CognitiveServices.Application.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\CognitiveServices.Application.pdb
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\net6.0\ref\CognitiveServices.Application.dll

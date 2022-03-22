@@ -1,0 +1,12 @@
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\bin\Debug\net6.0\CognitiveServices.Infrastructure.Voice.deps.json
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\bin\Debug\net6.0\CognitiveServices.Infrastructure.Voice.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\bin\Debug\net6.0\CognitiveServices.Infrastructure.Voice.pdb
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.csproj.AssemblyReference.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.AssemblyInfoInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.AssemblyInfo.cs
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.csproj.CoreCompileInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\refint\CognitiveServices.Infrastructure.Voice.dll
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\CognitiveServices.Infrastructure.Voice.pdb
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\net6.0\ref\CognitiveServices.Infrastructure.Voice.dll

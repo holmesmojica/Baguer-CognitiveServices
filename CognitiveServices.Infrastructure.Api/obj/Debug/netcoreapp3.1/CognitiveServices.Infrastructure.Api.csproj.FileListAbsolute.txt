@@ -1,0 +1,6 @@
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.csproj.AssemblyReference.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.AssemblyInfoInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.AssemblyInfo.cs
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.csproj.CoreCompileInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Api\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Api.MvcApplicationPartsAssemblyInfo.cache

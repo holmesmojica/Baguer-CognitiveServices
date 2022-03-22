@@ -1,0 +1,5 @@
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Speech.csproj.AssemblyReference.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Speech.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Speech.AssemblyInfoInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Speech.AssemblyInfo.cs
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Infrastructure.Voice\obj\Debug\netcoreapp3.1\CognitiveServices.Infrastructure.Speech.csproj.CoreCompileInputs.cache

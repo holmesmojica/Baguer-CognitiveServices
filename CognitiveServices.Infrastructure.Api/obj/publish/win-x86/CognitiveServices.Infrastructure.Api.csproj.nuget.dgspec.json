@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\CognitiveServices.Infrastructure.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\CognitiveServices.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\CognitiveServices.Application.csproj",
+        "projectName": "CognitiveServices.Application",
+        "projectPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\CognitiveServices.Application.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\CognitiveServices.Infrastructure.Speech.csproj": {
+                "projectPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\CognitiveServices.Infrastructure.Speech.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\CognitiveServices.Infrastructure.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\CognitiveServices.Infrastructure.Api.csproj",
+        "projectName": "CognitiveServices.Infrastructure.Api",
+        "projectPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\CognitiveServices.Infrastructure.Api.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Api\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\CognitiveServices.Application.csproj": {
+                "projectPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Application\\CognitiveServices.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[6.0.2, 6.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[6.0.2, 6.0.2]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\CognitiveServices.Infrastructure.Speech.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\CognitiveServices.Infrastructure.Speech.csproj",
+        "projectName": "CognitiveServices.Infrastructure.Speech",
+        "projectPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\CognitiveServices.Infrastructure.Speech.csproj",
+        "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\desarrollos\\CognitiveServices\\CognitiveServices\\CognitiveServices.Infrastructure.Voice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

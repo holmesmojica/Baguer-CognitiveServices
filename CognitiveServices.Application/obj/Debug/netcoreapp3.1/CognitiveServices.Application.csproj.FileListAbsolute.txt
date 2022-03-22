@@ -1,0 +1,5 @@
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\netcoreapp3.1\CognitiveServices.Application.csproj.AssemblyReference.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\netcoreapp3.1\CognitiveServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\netcoreapp3.1\CognitiveServices.Application.AssemblyInfoInputs.cache
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\netcoreapp3.1\CognitiveServices.Application.AssemblyInfo.cs
+D:\desarrollos\CognitiveServices\CognitiveServices\CognitiveServices.Application\obj\Debug\netcoreapp3.1\CognitiveServices.Application.csproj.CoreCompileInputs.cache
